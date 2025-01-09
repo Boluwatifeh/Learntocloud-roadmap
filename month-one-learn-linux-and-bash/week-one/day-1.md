@@ -9,6 +9,7 @@ Today, I learned the Linux Shell, Linux file structure and navigation using comm
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
 - *The Linux Command Line* by William Shotts (Chapters 1-3)
+- Missing semester of your CS Education - Lecture 1 : Course Overview + The shell [link here](https://missing.csail.mit.edu/2020/course-shell/)
 
 ## Major Highlight
 The major highlight for the reading today was a statement in the "Introduction" of "The Linux Command Line" book by William which i quote below;
