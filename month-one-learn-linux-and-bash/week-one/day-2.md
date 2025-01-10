@@ -1,16 +1,16 @@
 # Day 2: Learn XYZ
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+- Today, I learned and practice  file and directories manipulation using commands like `cp`, `mv`, `mkdir`, `rm` etc.
+- Explored advanced commands like `ln` for creating hard links and symlinks, also learnt about commands like `type`, `which`, `man`, `alias`, 
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- Understanding some complex wildcards lik  `*[[:lower:]123]`.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapters 4 & 5)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move to chapter 6 of the TLCL book -  Redirection 
+- Explore and delve into commands like `sort`, `grep`, `cat` and `tee`.
