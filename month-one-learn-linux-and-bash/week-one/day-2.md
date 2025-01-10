@@ -1,4 +1,4 @@
-# Day 2: Learn XYZ
+# Day 2: Learn Linux and Bash
 
 ## Summary
 - Today, I learned and practice  file and directories manipulation using commands like `cp`, `mv`, `mkdir`, `rm` etc.
