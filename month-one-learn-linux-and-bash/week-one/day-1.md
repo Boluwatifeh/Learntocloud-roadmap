@@ -1,7 +1,7 @@
 # Day 1: Learn Linux and Bash
 
 ## Summary
-Today, I learned the Linux Shell, Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`. I also learnt sybolic links, hard links and exploring the linux system using commands like `file`, `less`, etc 
+Today, I learned the Linux Shell, Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`. I also learnt symbolic links, hard links and exploring the linux system using commands like `file`, `less`, etc 
 
 ## Struggles
 - There was none as I was already familiar with most of these commands moreover, i already studied using Linux Basics for Hackers book, I stopped after a week of reading and documenting with the book simply because most of the topics covered were Kali Linux Based and I have a fedora installed on my PC which might hinder learning some of the concepts covered in the book. In addition, some of the chapters of the book seem off context for my learning journey. I only covered the first four chapters of the Linux Basics for hackers book - by occupytheweb.
