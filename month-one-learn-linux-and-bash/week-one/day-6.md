@@ -1,16 +1,15 @@
 # Day 6: Learn Linux and Bash
 
 ## Summary
-- Learnt about expansion, the various types of expansion Linux offers such as pathname expansion, tilde expansion, arithmetic expansion and parameter expansion.  
-- Explored using the `echo` command together with the various expension 
+- I didn't do much of learning today as I was quite busy with work. However, i was able to learn about `id` command used to display information about user identity in Linux
 
 ## Struggles
 - None for today.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 7)
+- *The Linux Command Line* by William Shotts (Chapters 9)
 
 ## Next Steps
-- Move to chapter 8 of the TLCL book -  Advanced Keyboard Tricks. 
+- Continue further with Chapter 9 -  Permissions. 
 
