@@ -3,6 +3,7 @@
 ## Summary
 - Learnt about /etc/passwd file which is used for storing users accounts, /etc/group file which contains where files and groups are defined, /etc/shadow.  
 - Learnt about the different types of files(directories, symlinks, character special files and block special file) 
+- Learnt about the effect the r, w, and x mode attributes have on files and directories
 
 ## Struggles
 - None for today.
