@@ -1,16 +1,16 @@
-# Day 1: Learn XYZ
+# Day 1: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+This week-two is supposed to be for Version Control and Markdown (This is where i start with the LTC guide) However, i was not able to cover a tangible amount of Linux concepts in week-one so my Linux and Bash learning now extends to week-two. Hopefully, i get to pace up and wrap up Linux and Bash this week 💪🏿
+
+- Today, I learnt about `su` and `sudo`, explored `chown` command which is used for changing file owner and group. I also learnt about `chgrp` command which is used for changing group ownership. 
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- Understanding the key differences between `su` and `sudo` commands.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
 - *The Linux Command Line* by William Shotts (Chapters 1-3)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move to chapter 10 of TLCL book - Permissions
