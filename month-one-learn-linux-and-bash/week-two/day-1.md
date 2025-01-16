@@ -10,7 +10,7 @@ This week-two is supposed to be for Version Control and Markdown (This is where 
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapter 9)
 
 ## Next Steps
 - Move to chapter 10 of TLCL book - Permissions
