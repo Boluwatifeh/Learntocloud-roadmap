@@ -1,7 +1,7 @@
 # Day 5: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learnt about the vi text editor, the different modes (edit mode, command mode) 
+Today, I learnt about the vi text editor, the different modes (edit mode, command mode and insert mode) 
 
 ## Struggles
 - None for today
