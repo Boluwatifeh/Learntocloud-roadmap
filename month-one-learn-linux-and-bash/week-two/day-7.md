@@ -1,32 +1,14 @@
-# Day 7: Learn XYZ
+# Day 7: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, I learnt about packaging systems used by various Linux distribution. Particularly, i focused on the packaging system for Red Hat Style (.rpm) which is for Fedora, CentOs, Red Hat Enterprise, OpenSUSE because my PC has fedora installed on it. I also learnt about how to install a package from a package file using `rpm -i package_file`, how to remove a package and how to upgrade a package from a package_file.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- There was none today
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapters 14)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
-# Day 2: Learn XYZ
-
-## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
-
-## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
-
-## Resources Used
-- [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
-
-## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move on to the next chapter of the book : 15 - Storage Media
