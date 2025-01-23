@@ -1,16 +1,15 @@
-# Day 2: Learn XYZ
+# Day 2: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, I learnt about `locate` and `find` command used in searching for files. I discovered that `locate` command queries a database that is run periodically as a cron job by a program called updatedb. I also learnt about a powerful command named `stat` that shows more information about file that `ls` does not contain. Lastly, I learnt about the various file types in linux (Block files, character special device file, directory, regular file, symlinks)
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- Understanding certain options and flags that the `find` command offers.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapters 17)
+- The missing semester of your CS education, [Lecture 2: Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/) towards the end of the lecture, jose covered some useful use-cases for `find` command.
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move to the next chapter of the book, 18 – Archiving and Backup.
