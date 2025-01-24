@@ -1,16 +1,14 @@
-# Day 3: Learn XYZ
+# Day 3: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, explored some file compression programs available in Linux e.g `gzip`, `bzip2`, I also explored some archiving programs such as `tar` & `zip` and `rsync` for file synchronization. Lastly, i installed `tldr` which is a command that gives a detailed usage of some popular commands.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- None for today.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapter 18)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move to chapter 20 – Text Processing
