@@ -1,16 +1,14 @@
-# Day 4: Learn XYZ
+# Day 4: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
-
+Today, I skipped chapter 19 and moved to chapter 20 of The Linux Command Line book where I learnt about the use of these commands and some advanced options for text processing. `cat`, `sort`, `uniq`, `sed` and `aspell`
+ 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- Some of the options were tricky to grasp.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapter 20)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move on to the next chapter - 21
