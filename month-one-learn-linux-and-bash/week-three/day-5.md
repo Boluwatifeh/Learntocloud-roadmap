@@ -1,16 +1,13 @@
-# Day 5: Learn XYZ
+# Day 5: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, I could not learn anything from the book as i usualy do due to unforseen circumstances. However, i learnt about fork() and exec() system calls in Linux and how the shell manages these system calls with programs such as `ls` which are not shell builtin.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- Understanding why exec() needs to be called after the fork() syscall already forks the shell as a child process and copies the command/program being executed to the forked process.
 
 ## Resources Used
-- [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- Youtube tutorials
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Continue with the chapaterf from The Linux Command Line Book.
