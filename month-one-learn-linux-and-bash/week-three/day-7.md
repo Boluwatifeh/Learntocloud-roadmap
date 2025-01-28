@@ -1,32 +1,14 @@
-# Day 7: Learn XYZ
+# Day 7: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, reviewed the chapters and commands i have learnt so far.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- None
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapters 1-23)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
-# Day 2: Learn XYZ
-
-## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
-
-## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
-
-## Resources Used
-- [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
-
-## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Proceed to learning bash scripting.
