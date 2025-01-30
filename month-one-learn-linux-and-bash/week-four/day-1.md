@@ -1,16 +1,15 @@
-# Day 1: Learn XYZ
+# Day 1: Learn Linux and Bash (cont'd)
+
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, I was supposed to begin learning bash scripting, however I could not due to some reasons. I will begin study tomorrow.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- Noe
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Begin learning bash scripting ...
