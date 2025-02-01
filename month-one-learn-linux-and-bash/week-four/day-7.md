@@ -1,4 +1,4 @@
-# Day 7: Learn XYZ
+# Day 7: Learn Linux and Bash (cont'd)
 
 ## Summary
 Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.

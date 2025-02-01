@@ -11,4 +11,4 @@ Today, I moved to chapter 25 of the TLCL book where I learnt how various shell f
 - *The Linux Command Line* by William Shotts (Chapter 26)
 
 ## Next Steps
-- - Move to next chapter, 26 –  Starting a Project
+- Move to next chapter, 26 –  Starting a Project
