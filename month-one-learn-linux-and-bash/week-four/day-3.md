@@ -1,16 +1,14 @@
-# Day 3: Learn XYZ
+# Day 3: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, I moved to chapter 25 of the TLCL book where I learnt how various shell features are used to create programs. I also learnt about variables and constants and the rules for naming variables.Lastly, I learnt about 'Here Documents'.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- There was none for today.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapter 26)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- - Move to next chapter, 26 –  Starting a Project
