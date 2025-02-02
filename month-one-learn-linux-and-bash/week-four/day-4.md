@@ -1,16 +1,14 @@
 # Day 4: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+Today, I learnt about shell functions, their syntax and how to define a shell function. I also learnt about the importance of having a top-down design while creating a shell program/script (This is related to having a problem properly defined step-by-step before implementing a solution). Lastly, I learnt about local variables.
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- None for today.
 
 ## Resources Used
 - [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- *The Linux Command Line* by William Shotts (Chapter 26)
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Move to the next chapter and learn about Flow Control: Branching with if
