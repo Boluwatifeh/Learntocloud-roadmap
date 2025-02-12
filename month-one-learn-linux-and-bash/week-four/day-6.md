@@ -1,16 +1,13 @@
 # Day 6: Learn Linux and Bash (cont'd)
 
 ## Summary
-Today, I learned the basics of Linux file structure and navigation using commands like `ls`, `cd`, `pwd`, and `man`.
+I have been off learning Linux and Bash for the past 7 days, I've been quite busy with some personal projects and work related tasks. I also got signed up for a Professional Cloud Devops Engineer certification exam. I am back and will be working on readjusting my Linux and Bash learning with respect to projects, articles etc. 
 
 ## Struggles
-- Remembering the syntax for some less-used commands.
-- Understanding certain permissions.
+- N/A
 
 ## Resources Used
-- [Learn to Cloud Guide](https://learntocloud.guide/)
-- *The Linux Command Line* by William Shotts (Chapters 1-3)
+- N/A
 
 ## Next Steps
-- Practice file permissions and ownership.
-- Explore more advanced commands like `grep` and `find`.
+- Adjust my learning plan and continue with the new learning path.
